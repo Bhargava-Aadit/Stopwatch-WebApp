@@ -1,2 +1,2 @@
-# Stopwatch-App
-This is a Stopwatch App with the functions Start, Stop and Reset with a fairly basic design
+# Stopwatch-WebApp
+This is a Stopwatch Web App with the functions Start, Stop and Reset with a Fairly Basic Design
